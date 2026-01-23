@@ -1,4 +1,0 @@
-RewriteEngine On
-
-RewriteCond %{HTTP_HOST} ^(www\.)?old-domain\.com$ [NC]
-RewriteRule ^(.*)$ https://stardev-4u.vercel.app/$1 [R=301,L]
