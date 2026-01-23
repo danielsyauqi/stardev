@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://stardev-4u.vercel.app/$",
+      "destination": "https://stardev-4u.vercel.app/",
       "permanent": true
     }
   ]
